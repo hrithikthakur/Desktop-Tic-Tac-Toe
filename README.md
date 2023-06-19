@@ -55,12 +55,3 @@ The Tic-Tac-Toe application can be further enhanced in the following ways:
 ## License
 
 This Tic-Tac-Toe application is open-source and distributed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
-
-## Acknowledgments
-
-I would like to acknowledge the following resources that helped me in developing this project:
-
-- Java documentation and tutorials provided by Oracle
-- Online tutorials and forums for Java Swing and GUI development
-- AI algorithm resources and explanations on the Minimax algorithm
-- Stack Overflow and other programming communities for answering questions and providing guidance along the way.
