@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-[gif](media/tic-tac-toe.gif)
+![gif](media/tic-tac-toe.gif)
 
 
 This is a desktop Tic-Tac-Toe application developed in Java, featuring a graphical user interface (GUI) and an AI opponent. The game utilizes the Java Swing library for the GUI components and implements the Minimax algorithm to provide an intelligent AI opponent. The project also incorporates multithreading to enhance the game's performance and responsiveness.
