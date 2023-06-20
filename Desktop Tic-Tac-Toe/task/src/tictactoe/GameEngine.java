@@ -9,7 +9,7 @@ public class GameEngine {
     }
 
     enum GameStatus {
-        NOT_STARTED("Game is not started"),
+        NOT_STARTED("Game has not started"),
         PLAYING("Game in progress"),
         DRAW("Draw"),
         X_WON("X wins"),
