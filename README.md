@@ -16,20 +16,6 @@ This is a desktop Tic-Tac-Toe application developed in Java, featuring a graphic
 
 - Object-Oriented Design: The codebase is organized using object-oriented principles to achieve abstraction, stability, and reusability. The design promotes modular components and separation of concerns.
 
-## How to Play
-
-1. Run the application on your desktop by executing the main Java file.
-
-2. The game board will be displayed on the GUI, consisting of a 3x3 grid.
-
-3. The player and the AI opponent take turns making their moves by clicking on an empty cell on the game board.
-
-4. The objective of the game is to get three of your symbols (X or O) in a row, either horizontally, vertically, or diagonally.
-
-5. If the player or the AI achieves this objective, a message will be displayed indicating the winner. If the game ends in a draw, it will be indicated as well.
-
-6. To start a new game, you can click on a "New Game" button or restart the application.
-
 ## Dependencies
 
 The Tic-Tac-Toe application has the following dependencies:
